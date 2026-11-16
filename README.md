@@ -1,2 +1,3 @@
-# WEbSiTE
-website
+# about
+# cv
+# portfolio
